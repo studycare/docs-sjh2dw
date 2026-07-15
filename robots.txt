@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kbs1gv.newsyourday.com/sitemap.xml
